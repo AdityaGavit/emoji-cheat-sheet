@@ -1,6 +1,4 @@
-# 🌟 The Complete Emoji Cheat Sheet
-
-> **Quick Search:** Navigating thousands of symbols on GitHub is slow. I built [SymbolHut.com](https://symbolhut.com) so you can instantly search and click-to-copy any character.
+# Emoji Cheat Sheet
 
 ## All Emoji Categories
 
